@@ -20,6 +20,8 @@
 - [Datasets](#Datasets)
 - [License](#License)
 - [Contributing](#Contributing)
+- [Others](#Others)
+- [Contact](#Contact)
 
 <a name="Tutorials-SLAM"></a>
 # Tutorials-SLAM
@@ -310,17 +312,12 @@ Yali Li a,b, Shengjin Wang a,b,n, Qi Tian c, Xiaoqing Ding a,b
 
 <a name="Contact"></a>
 # Contact
-Qinhu Ren
-
-College of Computer Science & Technology, Zhejiang University of Technology
-
-Address: No. 288, Liuhe Road, Xihu, Hangzhou, Zhejiang Province, China.
-
-Postcode：310023
-
-Tel: +86 17826801261
-
-Email: renqinhu@gmail.com
-
+- Name: Qinhu Ren [Github](https://github.com/KeeganRen)
+- Institution: College of Computer Science & Technology, Zhejiang University of Technology
+- Address: No. 288, Liuhe Road, Xihu, Hangzhou, Zhejiang Province, China.
+- Postcode：310023
+- Tel: +86 17826801261
+- WeChart: 17826801261
+- Email: renqinhu@gmail.com
 
 
