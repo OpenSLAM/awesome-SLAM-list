@@ -188,8 +188,8 @@
 ### IOS
 | Project | Platform | Link | Language | License | Video |
 | ------------  | -------- | --- | --- | --- | --- |
-| [ygx2011/ORB_SLAM-IOS](https://github.com/ygx2011/ORB_SLAM-IOS) | iphone | https://github.com/ygx2011/ORB_SLAM-IOS | C++/Objective-C/Unity3D | | [Plane-SLAM-AR-ios](https://www.youtube.com/watch?v=rnODCkjPtq4) |
-| [egoist-sx/ORB_SLAM_iOS](https://github.com/egoist-sx/ORB_SLAM_iOS) | iphone | https://github.com/egoist-sx/ORB_SLAM_iOS | C++/Objective-C | | |
+| [ygx2011/ORB_SLAM-IOS](https://github.com/ygx2011/ORB_SLAM-IOS) | iOS | https://github.com/ygx2011/ORB_SLAM-IOS | C++/Objective-C/Unity3D | | [Plane-SLAM-AR-ios](https://www.youtube.com/watch?v=rnODCkjPtq4) |
+| [egoist-sx/ORB_SLAM_iOS](https://github.com/egoist-sx/ORB_SLAM_iOS) | iOS | https://github.com/egoist-sx/ORB_SLAM_iOS | C++/Objective-C | | |
 
 ### Android
 | Project | Platform | Link | Language | License | Video |
