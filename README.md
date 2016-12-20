@@ -196,6 +196,12 @@
 | ------------  | -------- | --- | --- | --- | --- |
 | [FangGet/ORB_SLAM2_Android](https://github.com/FangGet/ORB_SLAM2_Android) | Android | https://github.com/FangGet/ORB_SLAM2_Android | C++/java | | |
 
+### ZED
+| Project | Platform | Link | Language | License | Video |
+| ------------  | -------- | --- | --- | --- | --- |
+| [ygx2011/Stereo_SLAM_AR](https://github.com/ygx2011/Stereo_SLAM_AR) | OSX/ZED | https://github.com/ygx2011/Stereo_SLAM_AR | C++/Objective-C | | |
+| [ygx2011/ZED_Stereo_ORBSLAM](https://github.com/ygx2011/ZED_Stereo_ORBSLAM) | OSX/ZED | https://github.com/ygx2011/ZED_Stereo_ORBSLAM | C++/Objective-C | | |
+
 <a name="OpenSourceMinimization"></a>
 ## OpenSource Minimization
 
@@ -360,6 +366,7 @@ Yali Li a,b, Shengjin Wang a,b,n, Qi Tian c, Xiaoqing Ding a,b
 
 - 泡泡机器人SLAM: 微信公众号：paopaorobot_slam
 - [高翔博士：https://github.com/gaoxiang12](https://github.com/gaoxiang12)
+- [应高选：https://github.com/ygx2011](https://github.com/ygx2011)
 - [awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list)
 - [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32/)
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
