@@ -361,7 +361,7 @@ Yali Li a,b, Shengjin Wang a,b,n, Qi Tian c, Xiaoqing Ding a,b
 - Address: No. 288, Liuhe Road, Xihu, Hangzhou, Zhejiang Province, China.
 - Postcode：310023
 - Tel: +86 17826801261
-- WeChart: 17826801261
+- WeChat: 17826801261
 - Email: renqinhu@gmail.com
 
 
