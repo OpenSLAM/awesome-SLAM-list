@@ -9,6 +9,13 @@
 	- [Video & Courses](#Video & Courses)
 - [Papers-SLAM](#Papers-SLAM)
 	- [Visual Odometry](#Visual Odometry)
+	- [ORB-SLAM](#ORB-SLAM)
+	- [Mono-SLAM](#Mono-SLAM)
+	- [LSD-SLAM](#LSD-SLAM)
+	- [RGBD-SLAM](#RGBD-SLAM)
+	- [ElasticFusion](#ElasticFusion)
+	- [Others-SLAM](#Others-SLAM)
+
 - [OpenSource-SLAM](#OpenSource-SLAM)
 	- [OpenSource-SLAM](#OpenSourceSLAM)
 	- [OpenSource-Minimization](#OpenSourceMinimization) 
@@ -91,8 +98,6 @@
 <a name="Papers-SLAM"></a>
 #Papers-SLAM
 
-## TODO:....
-
 <a name="Visual Odometry"></a>
 ## Visual Odometry (image based only)
 
@@ -105,6 +110,46 @@
 [Parallel Tracking and Mapping for Small AR Workspaces](http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf). G. Klein, D. Murray. ISMAR 2007.
 
 [Real-Time 6-DOF Monocular Visual SLAM in a Large-scale Environments](http://cvlab.hanyang.ac.kr/~jwlim/files/icra2014vslam.pdf). H. Lim, J. Lim, H. Jin Kim. ICRA 2014.
+
+<a name="ORB-SLAM"></a>
+## ORB-SLAM
+- ORB-SLAM: a Versatile and Accurate Monocular SLAM System
+- ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras
+
+<a name="Mono-SLAM"></a>
+## Mono-SLAM
+- MonoSLAM: Real-Time Single Camera SLAM
+- Inverse Depth Parametrization for Monocular SLAM
+
+<a name="LSD-SLAM"></a>
+## LSD-SLAM
+- LSD-SLAM: Large-Scale Direct Monocular SLAM
+- Large-Scale Direct SLAM for Omnidirectional Cameras
+- Large-Scale Direct SLAM with Stereo Cameras
+- Reconstructing Street-Scenes in Real-Time From a Driving Car
+
+<a name="RGBD-SLAM"></a>
+## RGBD-SLAM
+- 3-D Mapping With an RGB-D Camera
+- An Evaluation of the RGB-D SLAM System
+- A Benchmark for the Evaluation of RGB-D SLAM Systems
+- Real-time dense appearance-based SLAM for RGB-D sensors
+- RGB-D Mapping: Using Depth Cameras for Dense 3D Modeling of Indoor Environments
+- RGB-D mapping: Using Kinect-style depth cameras for dense 3D modeling of indoor environments
+
+<a name="ElasticFusion"></a>
+## ElasticFusion
+- ElasticFusion: Dense SLAM Without A Pose Graph
+- ElasticFusion: Real-Time Dense SLAM and Light Source Estimation
+
+<a name="Others-SLAM"></a>
+## Others-SLAM
+- DTAM: Dense Tracking and Mapping in Real-Time
+- Dense Visual SLAM for RGB-D Cameras
+- KinectFusion: Real-Time Dense Surface Mapping and Tracking ∗
+- Parallel Tracking and Mapping for Small AR Workspaces
+- SVO: Fast Semi-Direct Monocular Visual Odometry
+
 
 <a name="OpenSource-SLAM"></a>
 # OpenSource-SLAM
